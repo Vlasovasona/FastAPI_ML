@@ -1,0 +1,7 @@
+# ml
+torch==2.0.0
+numpy==1.26.3
+transformers==4.28.1
+# web framework
+fastapi==0.95.1
+uvicorn==0.21.1
